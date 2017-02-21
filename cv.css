@@ -1,0 +1,59 @@
+* {
+	font-family: 'Trebuchet MS', Helvetica, sans-serif;
+}
+
+#en-tête {
+	background-color: rgba(79, 141, 141, 0.5);
+	padding: 10%;
+}
+
+.flotte {
+	float:left;
+	margin-top: 0;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+#titre {
+	line-height: 10
+}
+
+.clear {clear: both;
+}
+
+#corps {
+	background-color: rgba(81, 244, 244, 0.2);
+}
+
+li {
+	list-style-type: none;
+}
+
+li:before {
+	content: "- ";
+}
+
+span.date {
+	color: blue
+}
+
+strong { 
+	font-size: x-large;
+}
+
+#cookies {
+	padding: 20px 10px;
+	background-color: rgba(0, 0, 0, 0.7);
+	color: #FFFFFF;
+	text-align: center;
+	font-size: xx-large;
+}
+
+#cookies.hide {
+	display: none;
+}
+button.close {
+	float: right;
+}
+
+
