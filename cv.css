@@ -20,6 +20,13 @@
 
 .clear {clear: both;
 }
+#competences {
+	background-color: red;
+}
+
+#experience {
+	background-color: red;
+}
 
 #corps {
 	background-color: rgba(81, 244, 244, 0.2);
